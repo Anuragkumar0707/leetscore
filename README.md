@@ -13,11 +13,11 @@ LeetStat is a simple web application that allows users to check their problem-so
 ---
 
 ## 📂 Project Structure
-│── index.html # Main webpage
-│── style.css # Styling (layout, colors, buttons, etc.)
-│── script.js # Logic for search & interactions
-│── assets/ # Images, icons, backgrounds
-│── README.md # Project documentation
+#│── index.html Main webpage
+#│── style.css  Styling (layout, colors, buttons, etc.)
+#│── script.js  Logic for search & interactions
+#│── assets/  Images, icons, backgrounds
+#│── README.md Project documentation
 
 
 ---
