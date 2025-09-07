@@ -19,7 +19,6 @@ LeetStat is a simple web application that allows users to check their problem-so
 │── assets/  #Images, icons, backgrounds
 │── README.md #Project documentation
 
-
 ---
 
 ## ⚙️ Setup & Usage
